@@ -1,0 +1,9 @@
+# Dataset e Modelo (ficheiros grandes)
+Dataset_BUSI_with_GT/
+#breast_cancer_model_final.keras
+
+# Ficheiros gerados pelo Python
+__pycache__/
+
+# Checkpoints do Jupyter Notebook
+.ipynb_checkpoints/
